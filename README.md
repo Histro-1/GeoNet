@@ -1,6 +1,6 @@
 # GeoNet
 A Javascript based game made with p5.js library, and sound effects sourced from pixabay.com and bensound.com
-![]("images/Game_Overview.png")
+![](Assets/images/Game_Overview.png)
 Commentary On Extensions Used Overview
  - extensions: p5.sound.min.js.
  - It was difficult to create a proper gravity implementation. The code for that portion could be better with more tweaking and finetuning.
