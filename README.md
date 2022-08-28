@@ -8,8 +8,7 @@ Commentary On Extensions Used Overview
  - I learnt about using objects, arrays, and for loops. These were useful in creating the aesthetic components of the game.
 
 #Chosen Extension: p5.sound.min.js
-For this project I made use of the sound extension for p5.js. I decided to focus on utilizing this extension extensively as opposed to using three extensions (but not as extensively).
-Using this extension I added jump sound effects, falling sound effects, “Item-collected” sound effects, and Background game music along with end-of-game music.
+For this project I made use of the sound extension for p5.js. Using this extension I added jump sound effects, falling sound effects, “Item-collected” sound effects, and Background game music along with end-of-game music.
 How the extension was Used
 The sound effects were downloaded from pixabay.com, and bensound.com (All mp3 format). They are all kept in the SoundEffects folder within the Assets folder. There are a total of 5 sound effects.
 Effect: jumpSound
