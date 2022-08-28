@@ -1,10 +1,11 @@
 /*
 
- Game Project 8: Game Submission.
+ GeoNet Game Project - Version 8.
  - extensions: p5.sound.min.js.
- - It was difficult to create a proper gravity implementation. The code for that portion could be better with more tweeking and finetuning.
- - Please make sure to hit "space" when you reach the flag. Also, click the screen to redeem your reward.
- - I learn't about using objects, arrays, and forloops. These were useful in creating the aesthetic components of the game.
+ - It was difficult to create a proper gravity implementation. The code for that portion could be better with more tweaking and finetuning.
+ - Please make sure to hit "space" when you reach the flag. Also, click the screen to redeem your reward :)
+ - I learn't about using external libraries and extensions. These were useful in creating the aesthetic components of the game.
+ - Inkscape was used for initial design and geometry patterns were transferred into code using p5.js
 */
 
 let gameChar_x;
